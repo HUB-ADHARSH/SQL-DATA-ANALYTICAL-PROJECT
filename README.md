@@ -64,3 +64,14 @@ A modular SQL project designed to explore, analyze, and report on structured dat
 - Modular script design for clarity and reuse  
 - Consistent naming and formatting across all queries  
 - Ready-to-integrate with BI tools or reporting layers
+---
+## 📄 LICENSE
+
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+---
+
+🌟 ABOUT ME
+
+ADHARSH C ==> ARTIFICIAL INTELLIGENCE & DATA SCIENCE ENGINEER
+---
