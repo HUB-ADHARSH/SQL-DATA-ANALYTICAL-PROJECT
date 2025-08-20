@@ -2,6 +2,8 @@
 
 A modular SQL project designed to explore, analyze, and report on structured data using best practices in query design, performance tracking, and layered analysis. Each script builds upon the previous, forming a reproducible and auditable workflow.
 
+---
+
 ## 🧭 Objectives
 
 - Initialize and explore the database schema  
@@ -9,6 +11,13 @@ A modular SQL project designed to explore, analyze, and report on structured dat
 - Conduct analytical deep-dives: magnitude, ranking, time-based change, cumulative trends  
 - Segment data and analyze part-to-whole relationships  
 - Generate final reports for key business entities (customers, products)
+
+---
+# ANALYTICAL STRUCTURE
+
+![Data Architecture](docs/DATA_ARCHITECTURE.png)
+
+---
 
 ## 🗂️ Repository Structure
 
@@ -29,17 +38,23 @@ A modular SQL project designed to explore, analyze, and report on structured dat
 | `12_report_customers.sql` | Final customer insights |
 | `13_report_products.sql` | Final product insights |
 
+---
+
 ## 🛠️ Tech Stack
 
 - SQL (ANSI-compliant)  
 - Layered query logic (Bronze → Silver → Gold)  
 - Execution time logging and error handling (where applicable)
 
+---
+
 ## 🚀 How to Use
 
 1. Run scripts sequentially from `00_` to `13_`  
 2. Ensure database connection and permissions are configured  
 3. Review outputs in your SQL IDE or export results as needed
+
+---
 
 ## 📌 Highlights
 
