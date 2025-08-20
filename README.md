@@ -1,7 +1,4 @@
 # SQL-DATA-ANALYTICAL-PROJECT
-SQL DATA ANALYTICS for productive and auditable worflow
-
----
 
 A modular SQL project designed to explore, analyze, and report on structured data using best practices in query design, performance tracking, and layered analysis. Each script builds upon the previous, forming a reproducible and auditable workflow.
 
