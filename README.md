@@ -18,7 +18,7 @@ A modular SQL project designed to explore, analyze, and report on structured dat
 ---
 # ANALYTICAL STRUCTURE
 
-![Data Architecture](docs/DATA_ARCHITECTURE.png)
+![Key Concepts](docs/ANALYTICS.png)
 
 ---
 
